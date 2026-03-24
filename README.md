@@ -1,5 +1,6 @@
 # 💫 About Me:
-i am a front-end developer<br>
+Frontend Developer Building responsive websites & interactive UI 🚀 Always learning. Always improving.
+<br>
 
 
 # 💻 Tech Stack:
